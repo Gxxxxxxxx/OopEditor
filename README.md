@@ -74,7 +74,7 @@ Waiting...
 
 # Reference
 
-# Overview
+### Overview
 
 * 怎么去实现一个简单文本编辑器？ - luikore的回答 - 知乎
   https://www.zhihu.com/question/24328297/answer/108235629
@@ -83,7 +83,7 @@ Waiting...
 
   http://www.finseth.com/craft/
 
-###GUI以及渲染
+### Overview
 
 * 《Qt学习之路2》
 
@@ -93,7 +93,7 @@ Waiting...
 
   https://www.libsdl.org
 
-###Text Storage
+### Text Storage
 
 暂缓
 
