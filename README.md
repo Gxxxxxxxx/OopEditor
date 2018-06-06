@@ -37,7 +37,7 @@ Waiting...
 * SDL2
 * FreeType(Waiting...)
 
-## Tasks
+#Tasks
 
 * Qt widget类设计(作为外壳)
 
