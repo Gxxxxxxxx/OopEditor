@@ -63,8 +63,8 @@ Waiting...
 
     ```
     struct TEXT {
-    std::string content;
-    int cursor;
+        std::string content;
+        int cursor;
     }
     ```
 
