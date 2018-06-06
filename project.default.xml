@@ -1,0 +1,36 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CMakeSettings">
+        <configurations>
+          <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+        </configurations>
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="blacksmith" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>General</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Annotator</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

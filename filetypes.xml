@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="_List_H" type="ObjectiveC" />
+      <mapping pattern="_Tree_H" type="ObjectiveC" />
+    </extensionMap>
+  </component>
+</application>
